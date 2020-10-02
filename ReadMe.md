@@ -1,3 +1,3 @@
 # Demo
 
-This is my learning of Github finally
+Finally learning Github.
